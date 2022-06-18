@@ -4,3 +4,4 @@
 
 --this project for practice feel free to use it 
 ### thank you
+# qouteGenerator
